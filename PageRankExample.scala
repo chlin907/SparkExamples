@@ -33,3 +33,5 @@ object PageRankExample {
     dfPageRank
   }
 }
+// Example to run this funciton
+// PageRankExample(alpha = 0.15, checkpointFolderPath)
